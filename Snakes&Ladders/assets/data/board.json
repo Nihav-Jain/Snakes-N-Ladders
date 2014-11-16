@@ -1,0 +1,94 @@
+{
+	"snakes": [
+		{
+			"mouth": 98,
+			"tail": 13
+		},
+		{
+			"mouth": 93,
+			"tail": 24
+		},
+		{
+			"mouth": 89,
+			"tail": 51
+		},
+		{
+			"mouth": 83,
+			"tail": 22
+		},
+		{
+			"mouth": 69,
+			"tail": 33
+		},
+		{
+			"mouth": 68,
+			"tail": 2
+		},
+		{
+			"mouth": 64,
+			"tail": 25
+		},
+		{
+			"mouth": 59,
+			"tail": 18
+		},
+		{
+			"mouth": 52,
+			"tail": 11
+		},
+		{
+			"mouth": 48,
+			"tail": 9
+		},
+		{
+			"mouth": 46,
+			"tail": 15
+		}
+	],
+	"ladders": [
+		{
+			"foot": 8,
+			"head": 26
+		},
+		{
+			"foot": 19,
+			"head": 38
+		},
+		{
+			"foot": 21,
+			"head": 82
+		},
+		{
+			"foot": 28,
+			"head": 53
+		},
+		{
+			"foot": 36,
+			"head": 57
+		},
+		{
+			"foot": 43,
+			"head": 77
+		},
+		{
+			"foot": 50,
+			"head": 91
+		},
+		{
+			"foot": 54,
+			"head": 88
+		},
+		{
+			"foot": 61,
+			"head": 99
+		},
+		{
+			"foot": 62,
+			"head": 96
+		},
+		{
+			"foot": 66,
+			"head": 87
+		}
+	]
+}
